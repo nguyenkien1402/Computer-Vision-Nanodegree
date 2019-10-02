@@ -12,7 +12,6 @@ In this project, I build a facial keypoint detection system. The system consists
 Some results from my facial keypoint detection system:
 
 <img src="images/beatles_resnet.png" width="512">
-<img src="gifs/face_mask_test.gif?" width="512"><br>
 
 The Udacity repository for this project: [P1_Facial_Keypoints](https://github.com/udacity/P1_Facial_Keypoints)
 
@@ -27,7 +26,7 @@ In this project, I design and train a CNN-RNN (Convolutional Neural Network - Re
 One good and one not so good sample made by my model:
 
 ![sample_171](images/sample_171.png?raw=true)<br/>
-![sample_193](images/sample_193.png?raw=true)<br/>
+
 
 The Udacity repository for this project: [CVND---Image-Captioning-Project](https://github.com/udacity/CVND---Image-Captioning-Project)
 
