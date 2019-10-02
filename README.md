@@ -31,7 +31,7 @@ One good and one not so good sample made by my model:
 
 The Udacity repository for this project: [CVND---Image-Captioning-Project](https://github.com/udacity/CVND---Image-Captioning-Project)
 
-## Project 3: Landmark Detection
+## Project 3: Landmark Detection 
 
 [Landmark Detection Project](project_3_landmark_detection)<br/>
 
@@ -50,11 +50,11 @@ The Udacity repository for this project: [Project_Landmark Detection](https://gi
 * [CNN Layers and Feature Visualization](exercises/1_5_CNN_Layers) - In this exercise, I define and train my own convolution neural network for clothing recognition. Learn to use feature visualization techniques to see what the network had learned.
 * [YOLO](exercises/2_2_YOLO) - In this exercise, I learn about the YOLO (You Only Look Once) multi-object detection model and work with a YOLO implementation. Implement YOLO to work with my webcam.
 * [LSTMs](exercises/2_4_LSTMs) - In this exercise, I learn about Long Short-Term Memory Networks (LSTM), and similar architectures which have the benefits of preserving long-term memory. Implement a Character-Level LSTM model. 
-* [Attention Mechanisms](exercises/2_6_Attention) -  Todo.
+* [Attention Mechanisms](exercises/2_6_Attention) -  Still haven't done but understand the attention machanisms cause I've been working on some cutting-edge NLP techniques such as BERT, GPT, Transformer which using Attention, it is just wholesome.
 
 The Udacity repository for the exercises: [CVND_Exercises](https://github.com/udacity/CVND_Exercises)
 
-##  Localization Exercises
+##  Localization Exercises (Not even finished Yet). I just put a bunch of document here to for reminding me there are some parts of this program that I haven't finished
 
 * [Optical Flow](localization_exercises/4_1_Optical_Flow) - In this exercise, I learn about and implement Optical Flow.
 * [Robot Localization](localization_exercises/4_2_Robot_Localization) - In this exercise, I learn how to implement a Bayesian filter to locate a robot in space and represent uncertainty in robot motion.
